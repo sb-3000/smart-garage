@@ -6,7 +6,7 @@ plugins like VLC are banned, so after messing with workarounds for a little whil
 
 Before publishing project on github I removed part of functionality for Chamberlain MyQ, camera and etc. because of migration to python 3, but I'll port it and publish there. 
 
-### Deploy Smart Garage on Raspberian:
+### Deploy Smart Garage on Pi:
  
 1. Login into your RPi
 
@@ -46,8 +46,9 @@ Enjoy!
 
 ### Dependencies required for development:
 
-1. Install PyGObject, GTK and their dependencies: 
-  https://pygobject.readthedocs.io/en/latest/getting_started.html
+1. Install PyGObject, GTK and their dependencies:
+
+https://pygobject.readthedocs.io/en/latest/getting_started.html
 
 2. Install fake-rpi:
 ```
